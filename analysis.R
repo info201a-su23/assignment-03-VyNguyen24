@@ -274,8 +274,8 @@ num_national_county_diff <- nrow(national_county_diff)
 # about this COVID data, and then write code to answer it (at least 2-3 lines)
 
 # QUESTION:  Write your question in English language words here
-# What is the cases in New Rochelle, New York after March 12, 2020 
-#
+# What effect quarantine have on the COVID outbreak starting
+# in the middle of March 2020?
 
 #  Write code (at least 2-3 lines) that will answer your question
 lockdown_cases <- national %>%

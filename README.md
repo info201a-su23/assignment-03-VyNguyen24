@@ -27,25 +27,29 @@ I think Texas could be the state that has the highest cases and HI could have th
 ## Reflection 2
 Did the number of COVID cases and deaths surprise you? Why or why not? What about the states with the highest and lowest number of cases? How did your guesses line up with the actual results? Answer in at least 1-3 sentences
 
-I was shocked by the number of COVID cases. I originally believed there might only be 13 million cases or, at most, 20 million cases, but after analyzing the data, I discovered there were 102070172 cases in the US as a whole. This is a staggering number that I could never have imagined. Because of all the information I've read about death and the overcrowded hospital, my estimate of the number of deaths is 5 million, which is higher than the actual number of 1115001. However, the data indicate that our delivery of healthcare and immunizations was effective. Additionally, the data contradicts my prediction, showing that California has the most cases overall while Washington has the fewest.
+The number of COVID cases shocked me. After examining the data, I learned there were 102,070,172 cases in the US as a whole, contrary to my initial estimation that there might only be 13 million cases or, at most, 20 million cases. This is a staggering sum that I never could have anticipated. My estimate of the number of deaths is 5 million, which is higher than the actual number of 1,115,001 because of all the information I've read about death and the overcrowded hospital. The data also shows that California has the most overall cases while Washington has the fewest, which goes against my prediction.
 
 ## Reflection 3
 Which county has the highest number of cases in the state of Washington, and does it surprise you? Why or why not? (You may need to google this county to learn about it) Answer at least in 1-3 sentences
 
-In Washington state, King county has the highest number of cases. I don't know much about King county so the result does surprise me. After searching, I found that King county is the most populous county in Washington state, which lead it to be the county that has highest cases in WA. 
+King county in Washington state has the most cases overall. Since I don't know much about King County, I am surprised by the outcome. Following some research, I discovered that King county is the most populous county in Washington state, therefore it also happens to has the most cases in the state. 
 
 ## Reflection 4
 Why are there so many observations (counties) in the variable `lowest_deaths_in_each_state`? That is, wouldn't you expect the number to be around 50? Why is the number greater than 50? Answer in at least 1-3 sentences
 
-There are so many observations because there are several counties in the same state that share the same amount of lowest death. 
+There are a lot of observations in the "lowest_deaths_in_each_state" section because i think there are several counties in the same state have the same number of lowest deaths. 
 
 ## Reflection 5
 What do you think about the number and scale of the inconsistencies in the data? Does the fact that there are inconsistencies mean that people should not use this data? Why or why not? Answer in at least 1-3 sentences
 
-
+As far as I can tell, the data set contains some unknown and missing values. This frequently occurs in big data, so we must be cautious in how we handle the missing value in order to lessen the bias in the data set. Since this data set is large, I believe the inconsistencies are acceptable and the data is still useful for analyzing the trend in COVID, but we have to aware of dealing with the missing values. 
 
 ## Reflection 6
 Why were you interested in this particular question? Were you able to answer your question with code? What did you learn? Answer in at least 1-3 sentences
 
+AI want to see how the COVID growth changes one month before and after March 15, 2020, since that is when the US began to impose quarantine and restrictions. As a result, I try to write code to see if there is still a significant increase in cases one month after the restriction. They continue to grow rapidly, though, and I was unable identify their impact. Because I believe that more observations and other factors need to be looked at in order to determine whether or not the quarantine has an effect on the spread of COVID, I was unable to find the answer to my question using my code. 
+
 ## Reflection 7
 What, if anything, made you curious about this COVID analysis? What, if anything, surprised you? What might you do the same or differently on your next data wrangling project? Answer in at least 1-3 sentences
+
+I'm curious about how they verify the data they gather, and I'm taken surprise by the fact that Washington State has the fewest cases. Also, I initially didn't give the missing data much thought when working with big data, I now believe that I should exercise greater caution. 

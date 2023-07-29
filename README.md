@@ -18,10 +18,10 @@ Before actually calculating the total number of COVID cases and deaths, record y
 Guess: How many total COVID cases do you think there have been in the U.S.?  
 I guess it could be around 13 million
 
-Guess: How many total COVID-related deaths do you think there have been in the U.S.?
+Guess: How many total COVID-related deaths do you think there have been in the U.S.?   
 I think it could be around 5 million
 
-Guess: Which state do you think has the highest number of COVID cases, and which state do you think has the lowest?
+Guess: Which state do you think has the highest number of COVID cases, and which state do you think has the lowest?  
 I think Texas could be the state that has the highest cases and HI could have the lowest
 
 ## Reflection 2
